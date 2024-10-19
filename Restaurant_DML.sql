@@ -1,5 +1,3 @@
---Name: Ariful Islam Shapla
---TraineeID:1280425
 
 USE Restaurant
 GO
